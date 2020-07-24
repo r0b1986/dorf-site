@@ -1,0 +1,5 @@
+Host robert-vps
+  HostName 35.244.97.137
+  User robert
+  ForwardAgent yes
+  IdentityFile /home/robert/.ssh/robert
